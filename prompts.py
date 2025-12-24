@@ -1,5 +1,5 @@
 def get_greeting():
-    return """👋 Hello! I'm TalentScout AI, your automated hiring assistant. 
+    return """👋 Hello! I'm OpenAI chat LLM, your automated hiring assistant. 
 
 I'll guide you through our initial screening process with a few quick questions. 
 
