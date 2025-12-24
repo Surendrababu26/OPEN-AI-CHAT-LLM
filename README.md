@@ -20,6 +20,5 @@
 ### 1. Clone the Repository
 
 ```bash
-
-
+https://github.com/Surendrababu26/OPEN-AI-CHAT-LLM.git
 cd AI-Hiring-Assistant
