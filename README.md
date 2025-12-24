@@ -1,27 +1,25 @@
-# TalentScout AI Hiring Assistant
-
-![App Screenshot](./assets/screenshot.png)
+# OpenAI ChatBot Assistant
 
 ## 🧠 Overview
 
-**TalentScout** is an AI-powered chatbot built using **Streamlit** and **OpenAI**, designed to assist in the initial screening of tech candidates. It gathers key information and asks technical questions based on the candidate's declared tech stack.
+**OpenAI ChatBot Assistant** is an AI-powered chatbot built using **Streamlit** and **OpenAI LLM**, designed to provide interactive and intelligent conversations. It can answer questions, assist with tasks, and maintain context across multiple turns for a seamless chat experience.
 
 ---
 
 ## 🚀 Features
 
-- 🗃️ Collects candidate info: name, email, phone, experience, location, desired role, and tech stack
-- 🤖 Generates tailored technical questions based on declared skills
-- 🧠 Maintains context for coherent conversations
-- 🛡️ Handles unexpected inputs with fallback responses
+- 🗣️ Engages in natural, coherent conversations powered by OpenAI LLM  
+- 🧠 Maintains context for relevant and meaningful responses  
+- 💡 Can assist with learning, tech support, general Q&A, and more  
+- 🛡️ Handles unexpected inputs with fallback responses  
 - 🎯 Clean, intuitive interface built with Streamlit
 
----
 
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
+
 
 cd AI-Hiring-Assistant
