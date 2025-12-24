@@ -23,5 +23,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SharathKumarPorubothula/AI-Hiring-Assistant.git
+
 cd AI-Hiring-Assistant
