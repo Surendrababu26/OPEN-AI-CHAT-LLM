@@ -22,7 +22,7 @@ def init_session():
 
 # Configure page
 st.set_page_config(
-    page_title="TalentScout AI Hiring Assistant",
+    page_title="OpenAI ChatBot AI Hiring Assistant",
     page_icon="🤖",
     layout="centered"
 )
@@ -39,7 +39,7 @@ st.markdown("""
 def main():
     init_session()
     
-    st.title("TalentScout AI Hiring Assistant 🤖")
+    st.title("OpenAI ChatBot AI Hiring Assistant 🤖")
     st.caption("Powered by AI - Initial Screening Tool")
     
     # Chat container
